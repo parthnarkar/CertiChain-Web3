@@ -1,4 +1,4 @@
-import ethers from 'ethers';
+import { ethers } from 'ethers';
 import CertificateVerifierABI from './CertificateVerifier.json';
 
 // deployed contact address
@@ -23,7 +23,7 @@ export async function getContract() {
   // 'signer' is your wallet - needed for transactions (write operations)
   const signer = await provider.getSigner();
 
-  const contact = new ethers.Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
+  const contract = new ethers.Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
 
   return contract;
 }
