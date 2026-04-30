@@ -80,6 +80,7 @@ Here's the core idea:
 
 ## 🎥 Demo: Issuing a Certificate
 
+https://github.com/user-attachments/assets/1037cc20-c273-4c25-9b02-912d38b6e81e
 
 ---
 
