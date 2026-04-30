@@ -78,6 +78,20 @@ Here's the core idea:
 </table>
 </div>
 
+---
+
+## ⛓️ On-Chain Proof (Etherscan)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/321a17f3-209d-4809-96bf-e196a45d57ce" width="700" />
+</p>
+
+<p align="center">
+    This transaction confirms that the certificate was securely issued and recorded on the blockchain (Sepolia Testnet).
+</p>
+
+---
+
 ## 🎥 Demo: Issuing a Certificate
 
 https://github.com/user-attachments/assets/1037cc20-c273-4c25-9b02-912d38b6e81e
